@@ -61,4 +61,5 @@ Run this code by cloning the repo and running
 $ gcc tinyv.c -o tinyv
 $ ./tinyv
 ```
-
+## TODO
+- [ ] Test nearest-neighbor and dot products

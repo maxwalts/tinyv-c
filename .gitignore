@@ -1,1 +1,6 @@
 .vscode
+.venv/
+*.bin
+demo
+query
+tinyv
